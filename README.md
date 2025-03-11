@@ -3,16 +3,11 @@
 # I am a Cybersecurity enthusiast and welcome to my Github!
 <a href="https://linkedin.com/in/tafara-magumise"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-- <b> My skills</b>
-  - Scripting (Bash, Powershell)
-  - Netwroking (http/s, ssl/tls, tcp/ip, udp)
-  - Penetration testing (Kali Linux, Nessus, Metasploit, Nmap)
-  - Vulnerability research
-  - Incident response (LimaCharlie, Splunk, Sentinel)
+Check out my [Portfolio](https://github.com/Tafara0-o/Cybersecurity-Portfolio) of projects I have done and the highlights of my cybersecurity career so far! 
   
 
-- You can contact me on LinkedIn: [follow this link](https://linkedin.com/in/tafara-magumise).
-- I write tech stuff sometimes: [Check out my medium](https://medium.com/@superdupertafara).
+- You can contact me on LinkedIn: [Click Here](https://linkedin.com/in/tafara-magumise).
+- I write tech stuff sometimes: [Medium Blog](https://medium.com/@superdupertafara).
 
 
 - 🔭 I’m currently working on : Remote Internship with [Mosse Cyber](https://www.mosse-institute.com/certifications/mrci-remote-cybersecurity-internship.html), and CTFs
