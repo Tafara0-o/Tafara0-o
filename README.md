@@ -3,14 +3,16 @@
 # I am a Cybersecurity enthusiast and welcome to my Github!
 <a href="https://linkedin.com/in/tafara-magumise"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-Check out my [Portfolio](https://github.com/Tafara0-o/Cybersecurity-Portfolio) of projects I have done and the highlights of my cybersecurity career so far! 
-  
+-----------------------------------------------------
 
-- You can contact me on LinkedIn: [Click Here](https://linkedin.com/in/tafara-magumise).
+Check out my [Portfolio](https://github.com/Tafara0-o/Cybersecurity-Portfolio) of projects I have done and the highlights of my cybersecurity career so far! 
+
+  
 - I write tech stuff sometimes: [Medium Blog](https://medium.com/@superdupertafara).
 
+------------------------------------------------------
 
-- 🔭 I’m currently working on : Remote Internship with [Mosse Cyber](https://www.mosse-institute.com/certifications/mrci-remote-cybersecurity-internship.html), and CTFs
+- 🔭 I’m currently working on : My Master's in Cybersecurity, a remote internship with [Mosse Cyber](https://www.mosse-institute.com/certifications/mrci-remote-cybersecurity-internship.html), and CTFs
 - 🌱 I’m currently learning : TryHackMe's SOC Level 1 in preparation for the SAL1 Certification
 - 👯 I’m looking to collaborate on : CTFs anywhere, shoot me up! Networking events, I'm down to meet new people anyday.
 - 🤔 I’m looking for help with : Red team side of things and attacking to be a better Blue teamer.
