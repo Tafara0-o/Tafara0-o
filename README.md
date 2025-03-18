@@ -13,7 +13,7 @@ Check out my [Portfolio](https://github.com/Tafara0-o/Cybersecurity-Portfolio) o
 ------------------------------------------------------
 
 - 🔭 I’m currently working on : My Master's in Cybersecurity, a remote internship with [Mosse Cyber](https://www.mosse-institute.com/certifications/mrci-remote-cybersecurity-internship.html), and CTFs
-- 🌱 I’m currently learning : TryHackMe's SOC Level 1 in preparation for the SAL1 Certification.
+- 🌱 I’m currently learning : TryHackMe's SOC Level 1 and TCM's PEH in preparation for the SAL1 and PJPT Certifications.
 - 👯 I’m looking to collaborate on : CTFs anywhere, shoot me up! Networking events, I'm down to meet new people anyday.
 - 🤔 I’m looking for help with : Red team side of things and attacking to be a better Blue teamer.
 - 💬 Ask me about : Anything security related, I'll give my humble 2 cents to the best of my abilities.
